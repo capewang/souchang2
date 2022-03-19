@@ -23,7 +23,7 @@
 [proxy_all]
 
 [outbound_block_list]
-scontent*
+frontend*
 59.83.204.156/32  
 47.57.185.199/32
 118.212.226.55/32
